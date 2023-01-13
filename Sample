@@ -7,4 +7,5 @@ def Input(k):
     Ch=int("Enter your Marks in Chemistry")
     Ma=int("Enter your Marks in Maths")
     Co=int("Enter your Marks in Computer")
+    K=
     
